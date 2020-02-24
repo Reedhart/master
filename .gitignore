@@ -31,3 +31,6 @@
 *.out
 *.app
 Git/Git.cbp
+plusmoins/openclassroom.cbp
+plusmoins/openclassroom.depend
+plusmoins/openclassroom.layout
